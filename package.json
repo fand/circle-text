@@ -1,0 +1,13 @@
+{
+  "name": "@fand/circle-text",
+  "version": "0.0.0",
+  "description": "ⒸⓄⓃⓋⒺⓇⓉ　ⒸⒽⒶⓇⓈ　ⓉⓄ　ⒺⓃⒸⓁⓄⓈⒺⒹ　ⒸⒽⒶⓇⓈ",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["CLI", "Unicode"],
+  "author": "fand <fand@gmork.in>",
+  "license": "MIT"
+}
